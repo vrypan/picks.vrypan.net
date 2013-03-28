@@ -6,11 +6,22 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Thu, 28 Mar 2013 09:13:10 </pubDate>
-		<lastBuildDate>Thu, 28 Mar 2013 09:13:10 </lastBuildDate>
+		<pubDate>Thu, 28 Mar 2013 14:20:08 </pubDate>
+		<lastBuildDate>Thu, 28 Mar 2013 14:20:08 </lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
+		
+		<item>
+			<title>pump.io by e14n</title>
+			<link>http://picks.vrypan.net/2013/3/28/46500856868/</link>
+			<guid>http://picks.vrypan.net/2013/3/28/46500856868/</guid>
+			<description>
+&lt;a href=&#34;http://pump.io/&#34;&gt;http://pump.io/&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;This is pump.io. It&amp;#8217;s a stream server that does most of what people really want from a social network.&lt;/p&gt;</description>
+			<pubDate>Thu, 28 Mar 2013 12:20:00 </pubDate>
+		</item>
 		
 		<item>
 			<title>Nasa to launch enormous, Arthur C Clarke-inspired solar sail in 2014 (Wired UK)</title>
@@ -307,17 +318,6 @@
 
 &lt;p&gt;(via &lt;a href=&#34;http://theoatmeal.com/comics/game_of_thrones&#34;&gt;I tried to watch Game of Thrones and this is what happened - The Oatmeal&lt;/a&gt;)&lt;/p&gt;</description>
 			<pubDate>Wed, 27 Feb 2013 13:48:00 </pubDate>
-		</item>
-		
-		<item>
-			<title>Piracy Doesn’t Hurt Game of Thrones, Director Says</title>
-			<link>http://picks.vrypan.net/2013/2/27/44133051355/</link>
-			<guid>http://picks.vrypan.net/2013/2/27/44133051355/</guid>
-			<description>
-&lt;a href=&#34;http://torrentfreak.com/piracy-doesnt-hurt-game-of-thrones-director-says-130227/&#34;&gt;http://torrentfreak.com/piracy-doesnt-hurt-game-of-thrones-director-says-130227/&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;&amp;#8220;However, according to the show’s director David Petrarca these elevated piracy levels are not necessarily a bad thing. When he was confronted with TorrentFreak’s download statistics, he suggested that piracy may do more good than harm.&amp;#8221;&lt;/p&gt;</description>
-			<pubDate>Wed, 27 Feb 2013 10:14:00 </pubDate>
 		</item>
 		
 	</channel>
