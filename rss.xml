@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Thu, 28 Mar 2013 21:34:45 +0200</pubDate>
-		<lastBuildDate>Thu, 28 Mar 2013 21:34:45 +0200</lastBuildDate>
+		<pubDate>Fri, 29 Mar 2013 01:43:59 +0200</pubDate>
+		<lastBuildDate>Fri, 29 Mar 2013 01:43:59 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>What Should Have Entered the Public Domain in 2013?: Philip K. Dick, James Bond, Billie Holiday, Etc | Open Culture</title>
+			<link>http://picks.vrypan.net/2013/3/28/46545274345/</link>
+			<guid>http://picks.vrypan.net/2013/3/28/46545274345/</guid>
+			<description>
+&lt;a href=&#34;http://www.openculture.com/2013/03/what_didnt_enter_the_public_domain_in_2013.html&#34;&gt;http://www.openculture.com/2013/03/what_didnt_enter_the_public_domain_in_2013.html&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;What entered the public domain in the US in 2013? It’s not a long answer, because the answer is …. nothing. Now here’s a question that yields a longer answer. What books would have entered the public domain if we were still operating under reasonable, pre-1978 copyright laws? Here’s a little list that comes from Duke University’s Center for the Study of the Public Domain [&amp;#8230;]&lt;/p&gt;</description>
+			<pubDate>Thu, 28 Mar 2013 23:43:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>What you need to know about the government&#39;s fight to unlock your cellphone</title>
@@ -303,21 +314,6 @@
 
 &lt;p&gt;Linus about his new Google &amp;#8220;Pixel&amp;#8221; laptop.&lt;/p&gt;</description>
 			<pubDate>Wed, 06 Mar 2013 09:48:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title></title>
-			<link>http://picks.vrypan.net/2013/3/4/44535861896/</link>
-			<guid>http://picks.vrypan.net/2013/3/4/44535861896/</guid>
-			<description>
-&lt;p&gt;
-
-&lt;img src=&#34;http://picks.vrypan.net/2013/3/4/44535861896/0_399x600.jpg&#34; width=&#34;399&#34; height=&#34;600&#34; /&gt;
-
-&lt;/p&gt;
-
-&lt;p&gt;(via &lt;a href=&#34;http://yatzer.com/Private-House-in-Tinos&#34;&gt;Private House in Tinos | Yatzer&lt;/a&gt;)&lt;/p&gt;</description>
-			<pubDate>Mon, 04 Mar 2013 11:39:00 +0200</pubDate>
 		</item>
 		
 	</channel>
