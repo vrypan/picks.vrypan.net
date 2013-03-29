@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Fri, 29 Mar 2013 01:43:59 +0200</pubDate>
-		<lastBuildDate>Fri, 29 Mar 2013 01:43:59 +0200</lastBuildDate>
+		<pubDate>Fri, 29 Mar 2013 02:13:29 +0200</pubDate>
+		<lastBuildDate>Fri, 29 Mar 2013 02:13:29 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Google Makes Open Patent Non-assertion Pledge and Proposes New Licensing Models | Electronic Frontier Foundation</title>
+			<link>http://picks.vrypan.net/2013/3/29/46547642083/</link>
+			<guid>http://picks.vrypan.net/2013/3/29/46547642083/</guid>
+			<description>
+&lt;a href=&#34;https://www.eff.org/deeplinks/2013/03/google-makes-open-patent-non-assertion-pledge&#34;&gt;https://www.eff.org/deeplinks/2013/03/google-makes-open-patent-non-assertion-pledge&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;[&amp;#8230;] In its patent pledge, Google promises to refrain from asserting ten patents against open source software. The pledge is subject to ‘defensive termination’ (i.e. it will be withdrawn as to anyone who sues Google first). The pledged patents all relate to Google’s MapReduce programming model. One of these had already caused concern in the open source community. Obviously, the ten patents are only a small part of the Google’s portfolio. Google suggests it may add more patents to the pledge later. We hope it does—in fact we would like to see companies broadly commit to holding their patent portfolios for defensive purposes only. [&amp;#8230;]&lt;/p&gt;</description>
+			<pubDate>Fri, 29 Mar 2013 00:13:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>What Should Have Entered the Public Domain in 2013?: Philip K. Dick, James Bond, Billie Holiday, Etc | Open Culture</title>
@@ -303,17 +314,6 @@
 
  </description>
 			<pubDate>Wed, 06 Mar 2013 10:30:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Linus Torvalds - Google - Toys, toys, toys..Hey, I&#39;ve joined all the ...</title>
-			<link>http://picks.vrypan.net/2013/3/6/44698111610/</link>
-			<guid>http://picks.vrypan.net/2013/3/6/44698111610/</guid>
-			<description>
-&lt;a href=&#34;https://plus.google.com/u/0/102150693225130002912/posts/dk1aiW4JjHd&#34;&gt;https://plus.google.com/u/0/102150693225130002912/posts/dk1aiW4JjHd&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;Linus about his new Google &amp;#8220;Pixel&amp;#8221; laptop.&lt;/p&gt;</description>
-			<pubDate>Wed, 06 Mar 2013 09:48:00 +0200</pubDate>
 		</item>
 		
 	</channel>
