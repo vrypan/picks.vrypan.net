@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Fri, 29 Mar 2013 09:34:32 +0200</pubDate>
-		<lastBuildDate>Fri, 29 Mar 2013 09:34:32 +0200</lastBuildDate>
+		<pubDate>Sun, 31 Mar 2013 01:59:02 +0200</pubDate>
+		<lastBuildDate>Sun, 31 Mar 2013 01:59:02 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Bitcoin Hits $1 Billion - IEEE Spectrum</title>
+			<link>http://picks.vrypan.net/2013/3/30/46712782469/</link>
+			<guid>http://picks.vrypan.net/2013/3/30/46712782469/</guid>
+			<description>
+&lt;a href=&#34;http://spectrum.ieee.org/tech-talk/computing/networks/bitcoin-hits-1-billion&#34;&gt;http://spectrum.ieee.org/tech-talk/computing/networks/bitcoin-hits-1-billion&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;Bitcoin, the world&amp;#8217;s first open source cryptographic currency, which has been on a tear since the beginning of this year, set a new record for itself yesterday afternoon as the price listed on the largest online exchange rose past US $92. With nearly 11 million Bitcoins in circulation*, this sets the total worth of the currency just over one billion dollars.&lt;/p&gt;</description>
+			<pubDate>Sat, 30 Mar 2013 23:58:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title></title>
@@ -303,17 +314,6 @@
 
 &lt;p&gt;&lt;blockquote&gt;[&amp;#8230;] a growing belief that the economics of hardware manufacturing, the maturation of the open source stack and standards, and the mainstream adoption of “the cloud” are, in concert, going to provide interesting opportunities for networked computation “by the people for the people”.&lt;/blockquote&gt;&lt;/p&gt;</description>
 			<pubDate>Fri, 08 Mar 2013 00:21:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Day One Export - Nathan’s Blog</title>
-			<link>http://picks.vrypan.net/2013/3/6/44699867741/</link>
-			<guid>http://picks.vrypan.net/2013/3/6/44699867741/</guid>
-			<description>
-&lt;a href=&#34;http://nb.nathanamy.org/dayone-export/&#34;&gt;http://nb.nathanamy.org/dayone-export/&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;Here is a Python script to export Day One journal entries into any text-based format (such as html, markdown, plain text, or Latex).&lt;/p&gt;</description>
-			<pubDate>Wed, 06 Mar 2013 11:05:00 +0200</pubDate>
 		</item>
 		
 	</channel>
