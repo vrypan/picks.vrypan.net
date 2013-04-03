@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Wed, 03 Apr 2013 15:39:57 +0200</pubDate>
-		<lastBuildDate>Wed, 03 Apr 2013 15:39:57 +0200</lastBuildDate>
+		<pubDate>Wed, 03 Apr 2013 17:59:15 +0200</pubDate>
+		<lastBuildDate>Wed, 03 Apr 2013 17:59:15 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Break Out a Hammer: You&#39;ll Never Believe the Data &#39;Wiped&#39; Smartphones Store | Gadget Lab | Wired.com</title>
+			<link>http://picks.vrypan.net/2013/4/3/47024907823/</link>
+			<guid>http://picks.vrypan.net/2013/4/3/47024907823/</guid>
+			<description>
+&lt;a href=&#34;http://www.wired.com/gadgetlab/2013/04/smartphone-data-trail/&#34;&gt;http://www.wired.com/gadgetlab/2013/04/smartphone-data-trail/&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;Simply restoring a phone to its factory settings won’t completely clear it of data. Even if you use the built-in tools to wipe it, when you go to sell your phone on Craigslist you may be selling all sorts of things along with it that are far more valuable — your name, birth date, Social Security number and home address, for example. You may inadvertently sell your old photos, nudes and all. The bottom line is, the stuff you thought you had gotten rid of is still there, if someone knows how to look.&lt;/p&gt;</description>
+			<pubDate>Wed, 03 Apr 2013 14:59:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>The untold story behind Apple&#39;s $13,000 operating system</title>
@@ -294,19 +305,6 @@
 
 &lt;p&gt;Google Reader was doomed to fail from the very beginning: the company never really believed in it and it took big effort on part of a small team to make it work. Chris Wetherell, original creator &amp;amp; part of the Reader team reflects on past &amp;amp; the future.&lt;/p&gt;</description>
 			<pubDate>Fri, 15 Mar 2013 20:25:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Next time, please pay a fair price for the services you depend on. Those have a better chance of surviving the bubbles.</title>
-			<link>http://picks.vrypan.net/2013/3/14/45330129859/</link>
-			<guid>http://picks.vrypan.net/2013/3/14/45330129859/</guid>
-			<description>
-&gt; Next time, please pay a fair price for the services you depend on. Those have a better chance of surviving the bubbles.
-
---&lt;a href=&#34;http://threads2.scripting.com/2013/march/goodbyeGoogleReader&#34;&gt;Thread: Goodbye Google Reader&lt;/a&gt;
-
-</description>
-			<pubDate>Thu, 14 Mar 2013 06:17:00 +0200</pubDate>
 		</item>
 		
 	</channel>
