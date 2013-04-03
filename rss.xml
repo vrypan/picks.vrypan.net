@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Wed, 03 Apr 2013 17:59:15 +0200</pubDate>
-		<lastBuildDate>Wed, 03 Apr 2013 17:59:15 +0200</lastBuildDate>
+		<pubDate>Wed, 03 Apr 2013 20:58:51 +0200</pubDate>
+		<lastBuildDate>Wed, 03 Apr 2013 20:58:51 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Plastic-Eating Underwater Drone Could Swallow the Great Pacific Garbage Patch | Popular Science</title>
+			<link>http://picks.vrypan.net/2013/4/3/47035130820/</link>
+			<guid>http://picks.vrypan.net/2013/4/3/47035130820/</guid>
+			<description>
+&lt;a href=&#34;http://www.popsci.com/technology/article/2012-07/plastic-eating-underwater-drone-could-swallow-great-pacific-garbage-patch&#34;&gt;http://www.popsci.com/technology/article/2012-07/plastic-eating-underwater-drone-could-swallow-great-pacific-garbage-patch&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;A new underwater drone concept could seek and destroy one of the ocean’s most insidious enemies, while earning a profit for plastics recyclers. This marine drone can siphon plastic garbage, swallowing bits of trash in a gaping maw rivaling that of a whale shark.&lt;/p&gt;</description>
+			<pubDate>Wed, 03 Apr 2013 17:58:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Break Out a Hammer: You&#39;ll Never Believe the Data &#39;Wiped&#39; Smartphones Store | Gadget Lab | Wired.com</title>
@@ -294,17 +305,6 @@
 
 &lt;p&gt;&lt;blockquote&gt;The death for Google Reader will surely bring a gigantic wave of innovation in the RSS Reader ‘market’. We’ve shown yesterday that there are many many alternatives. Superfeedr is in the business of making RSS easier, we’re introducing a little, simple (baby step thing which we hope will make a subscribing easier to use for everyone.&lt;/blockquote&gt;&lt;/p&gt;</description>
 			<pubDate>Sat, 16 Mar 2013 21:50:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Google Reader lived on borrowed time: creator Chris Wetherell reflects</title>
-			<link>http://picks.vrypan.net/2013/3/15/45439130553/</link>
-			<guid>http://picks.vrypan.net/2013/3/15/45439130553/</guid>
-			<description>
-&lt;a href=&#34;http://gigaom.com/2013/03/13/chris-wetherll-google-reader/&#34;&gt;http://gigaom.com/2013/03/13/chris-wetherll-google-reader/&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;Google Reader was doomed to fail from the very beginning: the company never really believed in it and it took big effort on part of a small team to make it work. Chris Wetherell, original creator &amp;amp; part of the Reader team reflects on past &amp;amp; the future.&lt;/p&gt;</description>
-			<pubDate>Fri, 15 Mar 2013 20:25:00 +0200</pubDate>
 		</item>
 		
 	</channel>
