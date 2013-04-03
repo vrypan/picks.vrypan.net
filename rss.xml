@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Wed, 03 Apr 2013 21:34:45 +0200</pubDate>
-		<lastBuildDate>Wed, 03 Apr 2013 21:34:45 +0200</lastBuildDate>
+		<pubDate>Wed, 03 Apr 2013 21:43:10 +0200</pubDate>
+		<lastBuildDate>Wed, 03 Apr 2013 21:43:10 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,19 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Why History Needs Software Piracy | PCWorld</title>
+			<link>http://picks.vrypan.net/2013/4/3/47037918940/</link>
+			<guid>http://picks.vrypan.net/2013/4/3/47037918940/</guid>
+			<description>
+&lt;a href=&#34;http://www.pcworld.com/article/248571/why_history_needs_software_piracy.html&#34;&gt;http://www.pcworld.com/article/248571/why_history_needs_software_piracy.html&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;It may seem counterintuitive, but piracy has actually saved more software than it has destroyed. Already, pirates have spared tens of thousands of programs from extinction, proving themselves the unintentional stewards of our digital culture. &lt;/p&gt;
+
+&lt;p&gt;Software pirates promote data survival through ubiquity and media independence. Like an ant that works as part of a larger system it doesn’t understand, the selfish action of each digital pirate, when taken in aggregate, has created a vast web of redundant data that ensures many digital works will live on.&lt;/p&gt;</description>
+			<pubDate>Wed, 03 Apr 2013 18:42:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>SEC Approves Using Facebook, Twitter for Company Disclosures - Bloomberg</title>
@@ -294,17 +307,6 @@
 
 </description>
 			<pubDate>Wed, 20 Mar 2013 20:16:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Terrorist, hacker, freedom fighter: Andrew Auernheimer parties tonight in expectation of jail tomorrow | VentureBeat</title>
-			<link>http://picks.vrypan.net/2013/3/19/45742633299/</link>
-			<guid>http://picks.vrypan.net/2013/3/19/45742633299/</guid>
-			<description>
-&lt;a href=&#34;http://venturebeat.com/2013/03/17/terrorist-hacker-freedom-fighter-andrew-auernheimer-parties-tonight-in-expectation-of-jail-tomorrow/&#34;&gt;http://venturebeat.com/2013/03/17/terrorist-hacker-freedom-fighter-andrew-auernheimer-parties-tonight-in-expectation-of-jail-tomorrow/&lt;/a&gt; &amp;rarr;
-
-</description>
-			<pubDate>Tue, 19 Mar 2013 07:17:00 +0200</pubDate>
 		</item>
 		
 	</channel>
