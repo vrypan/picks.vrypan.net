@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Wed, 03 Apr 2013 21:43:10 +0200</pubDate>
-		<lastBuildDate>Wed, 03 Apr 2013 21:43:10 +0200</lastBuildDate>
+		<pubDate>Fri, 05 Apr 2013 23:56:17 +0200</pubDate>
+		<lastBuildDate>Fri, 05 Apr 2013 23:56:17 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>How We Lost the Web - Anil Dash</title>
+			<link>http://picks.vrypan.net/2013/4/5/47216532381/</link>
+			<guid>http://picks.vrypan.net/2013/4/5/47216532381/</guid>
+			<description>
+&lt;a href=&#34;http://dashes.com/anil/2013/04/harvard.html&#34;&gt;http://dashes.com/anil/2013/04/harvard.html&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;&lt;i&gt;&amp;#8220;When I wrote about the web we lost a few months ago, I thought the idea that we&amp;#8217;d strayed from some of the philosophical and cultural underpinnings of the social web&amp;#8217;s early days would be of note to a few old-timers like me, and that most folks would sort of shrug their shoulders at this obscure concern. Instead, that piece and the conversation that have followed have gotten more of a response than almost anything else I&amp;#8217;ve written. As a result, I found myself, astonishingly, asked to speak at Harvard&amp;#8217;s Berkman Center earlier this week about the topic. [&amp;#8230;]&lt;/i&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 05 Apr 2013 20:55:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Why History Needs Software Piracy | PCWorld</title>
@@ -296,17 +307,6 @@
 
 &lt;p&gt;&amp;#8220;TeamSpy&amp;#8221; used digitally signed TeamViewer remote access tool to spy on victims.&lt;/p&gt;</description>
 			<pubDate>Thu, 21 Mar 2013 06:32:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>GoPro Uses DMCA to Take Down Article Comparing Its Camera with Rival</title>
-			<link>http://picks.vrypan.net/2013/3/20/45854640940/</link>
-			<guid>http://picks.vrypan.net/2013/3/20/45854640940/</guid>
-			<description>
-&lt;a href=&#34;http://www.petapixel.com/2013/03/20/gopro-uses-dmca-to-take-down-article-comparing-its-camera-with-rival/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed:&#34;&gt;http://www.petapixel.com/2013/03/20/gopro-uses-dmca-to-take-down-article-comparing-its-camera-with-rival/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed:&lt;/a&gt; PetaPixel (PetaPixel) &amp;rarr;
-
-</description>
-			<pubDate>Wed, 20 Mar 2013 20:16:00 +0200</pubDate>
 		</item>
 		
 	</channel>
