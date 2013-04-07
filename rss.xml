@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Fri, 05 Apr 2013 23:56:17 +0200</pubDate>
-		<lastBuildDate>Fri, 05 Apr 2013 23:56:17 +0200</lastBuildDate>
+		<pubDate>Sun, 07 Apr 2013 03:07:42 +0200</pubDate>
+		<lastBuildDate>Sun, 07 Apr 2013 03:07:42 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,21 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Skylar Tibbits: The emergence of “4D printing” (by TEDtalksDirector)</title>
+			<link>http://picks.vrypan.net/2013/4/7/47318899116/</link>
+			<guid>http://picks.vrypan.net/2013/4/7/47318899116/</guid>
+			<description>
+
+	&lt;iframe width=&#34;500&#34; height=&#34;281&#34; src=&#34;http://www.youtube.com/embed/0gMCZFHv9v8?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Skylar Tibbits: The emergence of &amp;#8220;4D printing&amp;#8221; (by &lt;a href=&#34;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=0gMCZFHv9v8&#34;&gt;TEDtalksDirector&lt;/a&gt;)&lt;/p&gt;
+
+ </description>
+			<pubDate>Sun, 07 Apr 2013 00:07:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>How We Lost the Web - Anil Dash</title>
@@ -296,17 +311,6 @@
 
 &lt;p&gt;The CFAA makes it a felony to &amp;#8220;exceed your authorization&amp;#8221; on a computer system, and fed prosecutors have taken the view that this means that if you violate terms of service, you&amp;#8217;re a felon, and they can put you in jail.&lt;/p&gt;</description>
 			<pubDate>Fri, 22 Mar 2013 05:35:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Decade-old espionage malware found targeting government computers | Ars Technica</title>
-			<link>http://picks.vrypan.net/2013/3/21/45899384404/</link>
-			<guid>http://picks.vrypan.net/2013/3/21/45899384404/</guid>
-			<description>
-&lt;a href=&#34;http://arstechnica.com/security/2013/03/decade-old-espionage-malware-found-targeting-government-computers/&#34;&gt;http://arstechnica.com/security/2013/03/decade-old-espionage-malware-found-targeting-government-computers/&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;&amp;#8220;TeamSpy&amp;#8221; used digitally signed TeamViewer remote access tool to spy on victims.&lt;/p&gt;</description>
-			<pubDate>Thu, 21 Mar 2013 06:32:00 +0200</pubDate>
 		</item>
 		
 	</channel>
