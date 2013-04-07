@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Sun, 07 Apr 2013 03:07:42 +0200</pubDate>
-		<lastBuildDate>Sun, 07 Apr 2013 03:07:42 +0200</lastBuildDate>
+		<pubDate>Mon, 08 Apr 2013 00:19:25 +0200</pubDate>
+		<lastBuildDate>Mon, 08 Apr 2013 00:19:25 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,21 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title></title>
+			<link>http://picks.vrypan.net/2013/4/7/47399191144/</link>
+			<guid>http://picks.vrypan.net/2013/4/7/47399191144/</guid>
+			<description>
+&lt;p&gt;
+
+&lt;img src=&#34;http://picks.vrypan.net/2013/4/7/47399191144/0_400x316.jpg&#34; width=&#34;400&#34; height=&#34;316&#34; /&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;(via &lt;a href=&#34;http://www.cracktwo.com/2011/04/25-abandoned-soviet-monuments-that-look.html&#34;&gt;25 Abandoned Yugoslavia Monuments that look like they&amp;#8217;re from the Future | Crack Two&lt;/a&gt;)&lt;/p&gt;</description>
+			<pubDate>Sun, 07 Apr 2013 21:19:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Skylar Tibbits: The emergence of “4D printing” (by TEDtalksDirector)</title>
@@ -300,17 +315,6 @@
 
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; While playing around with the Nmap Scripting Engine (NSE) we discovered an amazing number of open embedded devices on the Internet. Many of them are based on Linux and allow login to standard BusyBox with empty or default credentials. We used these devices to build a distributed port scanner to scan all IPv4 addresses. These scans include service probes for the most common ports, ICMP ping, reverse DNS and SYN scans. We analyzed some of the data to get an estimation of the IP address usage.&lt;/p&gt;</description>
 			<pubDate>Fri, 22 Mar 2013 09:43:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>How to fix the worst law in technology - Boing Boing</title>
-			<link>http://picks.vrypan.net/2013/3/22/45974416064/</link>
-			<guid>http://picks.vrypan.net/2013/3/22/45974416064/</guid>
-			<description>
-&lt;a href=&#34;http://boingboing.net/2013/03/21/how-to-fix-the-worst-law-in-te.html&#34;&gt;http://boingboing.net/2013/03/21/how-to-fix-the-worst-law-in-te.html&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;The CFAA makes it a felony to &amp;#8220;exceed your authorization&amp;#8221; on a computer system, and fed prosecutors have taken the view that this means that if you violate terms of service, you&amp;#8217;re a felon, and they can put you in jail.&lt;/p&gt;</description>
-			<pubDate>Fri, 22 Mar 2013 05:35:00 +0200</pubDate>
 		</item>
 		
 	</channel>
