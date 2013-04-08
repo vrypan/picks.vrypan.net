@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Mon, 08 Apr 2013 14:40:16 +0200</pubDate>
-		<lastBuildDate>Mon, 08 Apr 2013 14:40:16 +0200</lastBuildDate>
+		<pubDate>Mon, 08 Apr 2013 21:02:09 +0200</pubDate>
+		<lastBuildDate>Mon, 08 Apr 2013 21:02:09 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>The Quietus | Film | Film Features | The Dark Side Of Normal: Yorgos Lanthimos Interviewed</title>
+			<link>http://picks.vrypan.net/2013/4/8/47468503963/</link>
+			<guid>http://picks.vrypan.net/2013/4/8/47468503963/</guid>
+			<description>
+&lt;a href=&#34;http://thequietus.com/articles/11642-yorgos-lanthimos-alps-interview&#34;&gt;http://thequietus.com/articles/11642-yorgos-lanthimos-alps-interview&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;Rob White interviews Yorgos Lanthimos, director of Dogtooth, about his most recent film Alps, out now on DVD.&lt;/p&gt;</description>
+			<pubDate>Mon, 08 Apr 2013 18:01:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Thread: How podcasting got its name</title>
@@ -299,22 +310,6 @@
 
 &lt;p&gt;888, a London, UK-listed operator of online casino, bingo and poker games, today announced that it has gained a license to operate in the United States.&lt;/p&gt;</description>
 			<pubDate>Fri, 22 Mar 2013 12:57:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Another nail in the coffin of the fragilista way of life</title>
-			<link>http://picks.vrypan.net/2013/3/22/45982663926/</link>
-			<guid>http://picks.vrypan.net/2013/3/22/45982663926/</guid>
-			<description>
-&lt;a href=&#34;http://blog.traffick.com/2013/03/another-nail-in-the-coffin-of-the-fragilista-way-of-life/&#34;&gt;http://blog.traffick.com/2013/03/another-nail-in-the-coffin-of-the-fragilista-way-of-life/&lt;/a&gt; &amp;rarr;
-
-&lt;blockquote&gt;&lt;p&gt;Many of us make our app and platform decisions based on a certain calculation: go with the large, integrated provider that has momentum. The alternative is inconvenience, a lack of integration, possibly clunkier functionality, lack of “cool factor,” and in some cases, cost. &lt;/p&gt;
-
-&lt;p&gt;For example, our company recently adopted Google Apps for Business, joining the legions who have already done so. It hasn’t been without its issues. But our old way of doing things was worse. &lt;/p&gt;
-
-&lt;p&gt;For various tools, though, I’ve often felt that a less efficient mix-and-match approach was somehow healthier. I arrived at this view based on my belief in something I call the Single Overlord Adoption Threshold. America itself was founded on the basis of checks and balances. It’s an ideal; an ideal of multiple centers of power and influence so none gets too big. It’s such a valuable ideal to so many, that Americans put up with a lot of political gridlock, for fear of the alternative (tyranny).&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-			<pubDate>Fri, 22 Mar 2013 10:17:00 +0200</pubDate>
 		</item>
 		
 	</channel>
