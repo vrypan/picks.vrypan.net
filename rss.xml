@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Mon, 08 Apr 2013 21:02:09 +0200</pubDate>
-		<lastBuildDate>Mon, 08 Apr 2013 21:02:09 +0200</lastBuildDate>
+		<pubDate>Fri, 12 Apr 2013 02:34:52 +0200</pubDate>
+		<lastBuildDate>Fri, 12 Apr 2013 02:34:52 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,32 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>How Dave Goldberg of SurveyMonkey Built a Billion-Dollar Business and Still Gets Home By 5:30 PM</title>
+			<link>http://picks.vrypan.net/2013/4/11/47736965937/</link>
+			<guid>http://picks.vrypan.net/2013/4/11/47736965937/</guid>
+			<description>
+&lt;a href=&#34;http://firstround.com/article/How-Dave-Goldberg-of-SurveyMonkey-Built-a-Billion-Dollar-Business-and-Still-Gets-Home-By-5-30&#34;&gt;http://firstround.com/article/How-Dave-Goldberg-of-SurveyMonkey-Built-a-Billion-Dollar-Business-and-Still-Gets-Home-By-5-30&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;&lt;blockquote&gt;Goldberg leaves work at 5:30 PM every day to spend time with his family. While he does get back online after he puts his children to bed after 8:00 PM, he sets an example that makes it easier for the company to build and maintain its workforce. A CEO who spends time with his family every day demonstrates to other employees who have families that it’s okay to be home for dinner and live a life outside the office. All too often leadership teams say “work-life balance” is important and it’s okay to be home with your family for dinner – but they in fact do just the opposite. If you, as a CEO, want to shape the culture and build a workplace with a diverse team, you need to prove it with your actions. &lt;/blockquote&gt;&lt;/p&gt;</description>
+			<pubDate>Thu, 11 Apr 2013 23:34:00 +0200</pubDate>
+		</item>
+		
+		<item>
+			<title>Shodan: The scariest search engine on the Internet - Apr. 8, 2013</title>
+			<link>http://picks.vrypan.net/2013/4/10/47609303813/</link>
+			<guid>http://picks.vrypan.net/2013/4/10/47609303813/</guid>
+			<description>
+&lt;a href=&#34;http://money.cnn.com/2013/04/08/technology/security/shodan/index.html?iid=HP_LN&#34;&gt;http://money.cnn.com/2013/04/08/technology/security/shodan/index.html?iid=HP_LN&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;[&amp;#8230;] Shodan runs 24/7 and collects information on about 500 million connected devices and services each month.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s stunning what can be found with a simple search on Shodan. Countless traffic lights, security cameras, home automation devices and heating systems are connected to the Internet and easy to spot.&lt;/p&gt;
+
+&lt;p&gt;Shodan searchers have found control systems for a water park, a gas station, a hotel wine cooler and a crematorium. Cybersecurity researchers have even located command and control systems for nuclear power plants and a particle-accelerating cyclotron by using Shodan. [&amp;#8230;]&lt;/p&gt;</description>
+			<pubDate>Wed, 10 Apr 2013 08:57:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>The Quietus | Film | Film Features | The Dark Side Of Normal: Yorgos Lanthimos Interviewed</title>
@@ -288,28 +314,6 @@
 
 &lt;p&gt;Despite the pervasiveness of law enforcement surveillance of digital communication, the FBI still has a difficult time monitoring Gmail, Google Voice, and Dropbox in real time. But that may change soon, because the bureau says it has made gaining more powers to wiretap all forms of Internet conversation and cloud storage a “top priority” this year.&lt;/p&gt;</description>
 			<pubDate>Wed, 27 Mar 2013 10:38:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>history - Why is 80 characters the &#39;standard&#39; limit for code width?</title>
-			<link>http://picks.vrypan.net/2013/3/26/46327386313/</link>
-			<guid>http://picks.vrypan.net/2013/3/26/46327386313/</guid>
-			<description>
-&lt;a href=&#34;http://programmers.stackexchange.com/questions/148677/why-is-80-characters-the-standard-limit-for-code-width/148678#148678&#34;&gt;http://programmers.stackexchange.com/questions/148677/why-is-80-characters-the-standard-limit-for-code-width/148678#148678&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;Why is 80 characters the &amp;#8220;standard&amp;#8221; limit for code width? Why 80 and not 79, 81 or 100? What is the origin of this particular value?&lt;/p&gt;</description>
-			<pubDate>Tue, 26 Mar 2013 09:46:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>“An historic moment”: 888 first online gambling company to win US license</title>
-			<link>http://picks.vrypan.net/2013/3/22/45987663189/</link>
-			<guid>http://picks.vrypan.net/2013/3/22/45987663189/</guid>
-			<description>
-&lt;a href=&#34;http://thenextweb.com/us/2013/03/22/a-historical-moment-888-first-online-gambling-firm-to-obtain-us-license/&#34;&gt;http://thenextweb.com/us/2013/03/22/a-historical-moment-888-first-online-gambling-firm-to-obtain-us-license/&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;888, a London, UK-listed operator of online casino, bingo and poker games, today announced that it has gained a license to operate in the United States.&lt;/p&gt;</description>
-			<pubDate>Fri, 22 Mar 2013 12:57:00 +0200</pubDate>
 		</item>
 		
 	</channel>
