@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Fri, 12 Apr 2013 02:34:52 +0200</pubDate>
-		<lastBuildDate>Fri, 12 Apr 2013 02:34:52 +0200</lastBuildDate>
+		<pubDate>Fri, 12 Apr 2013 10:02:24 +0200</pubDate>
+		<lastBuildDate>Fri, 12 Apr 2013 10:02:24 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,21 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title></title>
+			<link>http://picks.vrypan.net/2013/4/12/47767100330/</link>
+			<guid>http://picks.vrypan.net/2013/4/12/47767100330/</guid>
+			<description>
+&lt;p&gt;
+
+&lt;img src=&#34;http://picks.vrypan.net/2013/4/12/47767100330/0_400x268.jpg&#34; width=&#34;400&#34; height=&#34;268&#34; /&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;(via &lt;a href=&#34;http://hackaday.com/2013/04/10/hacker-sends-this-through-the-mail-to-record-a-video-of-the-process/&#34;&gt;Hacker sends this through the mail to record a video of the process&lt;/a&gt;)&lt;/p&gt;</description>
+			<pubDate>Fri, 12 Apr 2013 07:01:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>How Dave Goldberg of SurveyMonkey Built a Billion-Dollar Business and Still Gets Home By 5:30 PM</title>
@@ -303,17 +318,6 @@
 
 &lt;p&gt;&lt;img src=&#34;http://cdni.wired.co.uk/620x413/s_v/Solar_Sail_01.jpg&#34;/&gt;&lt;/p&gt;</description>
 			<pubDate>Wed, 27 Mar 2013 10:55:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Andrew Weissmann: FBI wants real-time Gmail, Dropbox spying power.</title>
-			<link>http://picks.vrypan.net/2013/3/27/46412792955/</link>
-			<guid>http://picks.vrypan.net/2013/3/27/46412792955/</guid>
-			<description>
-&lt;a href=&#34;http://www.slate.com/blogs/future_tense/2013/03/26/andrew_weissmann_fbi_wants_real_time_gmail_dropbox_spying_power.html&#34;&gt;http://www.slate.com/blogs/future_tense/2013/03/26/andrew_weissmann_fbi_wants_real_time_gmail_dropbox_spying_power.html&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;Despite the pervasiveness of law enforcement surveillance of digital communication, the FBI still has a difficult time monitoring Gmail, Google Voice, and Dropbox in real time. But that may change soon, because the bureau says it has made gaining more powers to wiretap all forms of Internet conversation and cloud storage a “top priority” this year.&lt;/p&gt;</description>
-			<pubDate>Wed, 27 Mar 2013 10:38:00 +0200</pubDate>
 		</item>
 		
 	</channel>
