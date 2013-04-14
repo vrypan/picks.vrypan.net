@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Fri, 12 Apr 2013 17:17:59 +0200</pubDate>
-		<lastBuildDate>Fri, 12 Apr 2013 17:17:59 +0200</lastBuildDate>
+		<pubDate>Sun, 14 Apr 2013 10:34:06 +0200</pubDate>
+		<lastBuildDate>Sun, 14 Apr 2013 10:34:06 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>how to use Amazon S3 like you use CloudApp</title>
+			<link>http://picks.vrypan.net/2013/4/14/47936736204/</link>
+			<guid>http://picks.vrypan.net/2013/4/14/47936736204/</guid>
+			<description>
+&lt;a href=&#34;http://aaronjgreenberg.com/s3_uploader.html&#34;&gt;http://aaronjgreenberg.com/s3_uploader.html&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;CloudApp has a pretty nice user experience. If you want to upload a file, all you have to do is drag it to the cloud icon on your taskbar and it&amp;#8217;s automatically uploaded—and copied to your clipboard. It&amp;#8217;s simple and gratifying to use, but I wanted a little more control and to avoid paying. I built something similar that uses Amazon&amp;#8217;s Simple Storage Service (S3) as storage and a Python script in Mac OS X Automator. Here&amp;#8217;s how to do it. [&amp;#8230;]&lt;/p&gt;</description>
+			<pubDate>Sun, 14 Apr 2013 07:33:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>java - Why is subtracting these two times (in 1927) giving a strange result? - Stack Overflow</title>
@@ -309,17 +320,6 @@ Just check out part of the answer:
 
 &lt;p&gt;&lt;blockquote&gt;A lot of us around here have blogs and a lot of us use FeedBurner to &amp;#8220;host&amp;#8221; our RSS feeds. I thought it was worth talking about what might happen if we lose FeedBurner, which seems especially likely these days with the impending doom of Google Reader.&lt;/blockquote&gt;&lt;/p&gt;</description>
 			<pubDate>Thu, 28 Mar 2013 13:03:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>pump.io by e14n</title>
-			<link>http://picks.vrypan.net/2013/3/28/46500856868/</link>
-			<guid>http://picks.vrypan.net/2013/3/28/46500856868/</guid>
-			<description>
-&lt;a href=&#34;http://pump.io/&#34;&gt;http://pump.io/&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;This is pump.io. It&amp;#8217;s a stream server that does most of what people really want from a social network.&lt;/p&gt;</description>
-			<pubDate>Thu, 28 Mar 2013 12:20:00 +0200</pubDate>
 		</item>
 		
 	</channel>
