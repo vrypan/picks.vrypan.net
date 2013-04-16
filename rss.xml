@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Mon, 15 Apr 2013 13:27:21 +0200</pubDate>
-		<lastBuildDate>Mon, 15 Apr 2013 13:27:21 +0200</lastBuildDate>
+		<pubDate>Tue, 16 Apr 2013 08:44:59 +0200</pubDate>
+		<lastBuildDate>Tue, 16 Apr 2013 08:44:59 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Google Releases Glass Specs: Full Day Battery Life, 5MP Camera, 720p Video, 16GB Flash Memory &amp; Bone Conduction Transducer | TechCrunch</title>
+			<link>http://picks.vrypan.net/2013/4/16/48104703375/</link>
+			<guid>http://picks.vrypan.net/2013/4/16/48104703375/</guid>
+			<description>
+&lt;a href=&#34;http://techcrunch.com/2013/04/15/google-releases-full-glass-specs-full-day-battery-life-5mp-camera-720p-video-16gb-flash-memory-bone-conduction-transducer/&#34;&gt;http://techcrunch.com/2013/04/15/google-releases-full-glass-specs-full-day-battery-life-5mp-camera-720p-video-16gb-flash-memory-bone-conduction-transducer/&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;The news about Google Glass just keeps coming today. After announcing that Glass is about to ship and releasing the Glass Mirror API documentation, Google has now also posted the full spec sheet for the Glass hardware. There are no major surprises here, but it’s nice to finally get to see what those users who will be able to buy the Explorer editions will get for their $1,500.&lt;/p&gt;</description>
+			<pubDate>Tue, 16 Apr 2013 05:44:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Why ADP Is the Biggest Cloud Company You&#39;ve Never Heard Of - Arik Hesseldahl - Enterprise - AllThingsD</title>
@@ -307,17 +318,6 @@ Just check out part of the answer:
 
 &lt;p&gt;(via &lt;a href=&#34;https://help.gnome.org/misc/release-notes/3.8/&#34;&gt;Introducing GNOME 3.8&lt;/a&gt;)&lt;/p&gt;</description>
 			<pubDate>Fri, 29 Mar 2013 07:34:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Google Makes Open Patent Non-assertion Pledge and Proposes New Licensing Models | Electronic Frontier Foundation</title>
-			<link>http://picks.vrypan.net/2013/3/29/46547642083/</link>
-			<guid>http://picks.vrypan.net/2013/3/29/46547642083/</guid>
-			<description>
-&lt;a href=&#34;https://www.eff.org/deeplinks/2013/03/google-makes-open-patent-non-assertion-pledge&#34;&gt;https://www.eff.org/deeplinks/2013/03/google-makes-open-patent-non-assertion-pledge&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;[&amp;#8230;] In its patent pledge, Google promises to refrain from asserting ten patents against open source software. The pledge is subject to ‘defensive termination’ (i.e. it will be withdrawn as to anyone who sues Google first). The pledged patents all relate to Google’s MapReduce programming model. One of these had already caused concern in the open source community. Obviously, the ten patents are only a small part of the Google’s portfolio. Google suggests it may add more patents to the pledge later. We hope it does—in fact we would like to see companies broadly commit to holding their patent portfolios for defensive purposes only. [&amp;#8230;]&lt;/p&gt;</description>
-			<pubDate>Fri, 29 Mar 2013 00:13:00 +0200</pubDate>
 		</item>
 		
 	</channel>
