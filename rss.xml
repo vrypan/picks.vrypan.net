@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Sun, 21 Apr 2013 08:12:50 +0200</pubDate>
-		<lastBuildDate>Sun, 21 Apr 2013 08:12:50 +0200</lastBuildDate>
+		<pubDate>Tue, 23 Apr 2013 16:47:35 +0200</pubDate>
+		<lastBuildDate>Tue, 23 Apr 2013 16:47:35 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Finnish Websites Go Dark to Support a Fair Copyright Law | TorrentFreak</title>
+			<link>http://picks.vrypan.net/2013/4/23/48692322545/</link>
+			<guid>http://picks.vrypan.net/2013/4/23/48692322545/</guid>
+			<description>
+&lt;a href=&#34;http://torrentfreak.com/finnish-websites-go-dark-to-support-copyright-reform-130423/?utm_source=dlvr.it&amp;amp;utm_medium=twitter&#34;&gt;http://torrentfreak.com/finnish-websites-go-dark-to-support-copyright-reform-130423/?utm_source=dlvr.it&amp;amp;utm_medium=twitter&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;[&amp;#8230;] Termed ‘To Make Sense of the Copyright Act’, the proposal wants to reduce penalties for copyright infringement, increase fair use, and ease the ability for people to make copies of items they already own (for format shifting, or backups). [&amp;#8230;]&lt;/p&gt;</description>
+			<pubDate>Tue, 23 Apr 2013 13:47:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Gitsu: User management and pairing for Git :: About</title>
@@ -303,17 +314,6 @@ Just check out part of the answer:
 &lt;p&gt;An amazing overlay of old (1914) and new (2013) photos of Paris.&lt;/p&gt;
 </description>
 			<pubDate>Tue, 02 Apr 2013 06:08:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Bitcoin Hits $1 Billion - IEEE Spectrum</title>
-			<link>http://picks.vrypan.net/2013/3/30/46712782469/</link>
-			<guid>http://picks.vrypan.net/2013/3/30/46712782469/</guid>
-			<description>
-&lt;a href=&#34;http://spectrum.ieee.org/tech-talk/computing/networks/bitcoin-hits-1-billion&#34;&gt;http://spectrum.ieee.org/tech-talk/computing/networks/bitcoin-hits-1-billion&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;Bitcoin, the world&amp;#8217;s first open source cryptographic currency, which has been on a tear since the beginning of this year, set a new record for itself yesterday afternoon as the price listed on the largest online exchange rose past US $92. With nearly 11 million Bitcoins in circulation*, this sets the total worth of the currency just over one billion dollars.&lt;/p&gt;</description>
-			<pubDate>Sat, 30 Mar 2013 23:58:00 +0200</pubDate>
 		</item>
 		
 	</channel>
