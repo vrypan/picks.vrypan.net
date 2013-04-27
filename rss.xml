@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Tue, 23 Apr 2013 16:47:35 +0200</pubDate>
-		<lastBuildDate>Tue, 23 Apr 2013 16:47:35 +0200</lastBuildDate>
+		<pubDate>Sat, 27 Apr 2013 11:41:46 +0200</pubDate>
+		<lastBuildDate>Sat, 27 Apr 2013 11:41:46 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Can You Hear Me Now? Cellphone Satellites Phone Home : NPR</title>
+			<link>http://picks.vrypan.net/2013/4/27/48988470161/</link>
+			<guid>http://picks.vrypan.net/2013/4/27/48988470161/</guid>
+			<description>
+&lt;a href=&#34;http://www.npr.org/2013/04/26/178846158/can-you-hear-me-now-cellphone-satellites-phone-home&#34;&gt;http://www.npr.org/2013/04/26/178846158/can-you-hear-me-now-cellphone-satellites-phone-home&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;Smartphones can check e-mail, record videos and even stream NPR. Now NASA has discovered they make pretty decent satellites, too. Three smart phones launched into space this past Sunday are orbiting above us even now, transmitting data and images back to Earth. The PhoneSats, which cost just a few thousand dollars each, could usher in big changes for the satellite industry.&lt;/p&gt;</description>
+			<pubDate>Sat, 27 Apr 2013 05:57:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Finnish Websites Go Dark to Support a Fair Copyright Law | TorrentFreak</title>
@@ -302,18 +313,6 @@ Just check out part of the answer:
 
 &lt;p&gt;For the first time in 90 years, Greek Muslims prayed in a 111-year-old mosque in the city of Thessaloniki on Saturday.&lt;/p&gt;</description>
 			<pubDate>Tue, 02 Apr 2013 09:45:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Paris 1900-2013 en photos : pilotez notre fabuleuse machine a remonter le temps | Rue89 Culture</title>
-			<link>http://picks.vrypan.net/2013/4/2/46919201674/</link>
-			<guid>http://picks.vrypan.net/2013/4/2/46919201674/</guid>
-			<description>
-&lt;a href=&#34;http://www.rue89.com/rue89-culture/2013/03/24/paris-1914-2013-en-photos-grimpez-dans-notre-fabuleuse-machine-remonter-le&#34;&gt;http://www.rue89.com/rue89-culture/2013/03/24/paris-1914-2013-en-photos-grimpez-dans-notre-fabuleuse-machine-remonter-le&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;An amazing overlay of old (1914) and new (2013) photos of Paris.&lt;/p&gt;
-</description>
-			<pubDate>Tue, 02 Apr 2013 06:08:00 +0200</pubDate>
 		</item>
 		
 	</channel>
