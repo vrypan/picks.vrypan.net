@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Sat, 27 Apr 2013 11:41:46 +0200</pubDate>
-		<lastBuildDate>Sat, 27 Apr 2013 11:41:46 +0200</lastBuildDate>
+		<pubDate>Tue, 30 Apr 2013 10:06:05 +0200</pubDate>
+		<lastBuildDate>Tue, 30 Apr 2013 10:06:05 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>How I coded in 1985 | John Graham-Cumming</title>
+			<link>http://picks.vrypan.net/2013/4/29/49205619722/</link>
+			<guid>http://picks.vrypan.net/2013/4/29/49205619722/</guid>
+			<description>
+&lt;a href=&#34;http://blog.jgc.org/2013/04/how-i-coded-in-1985.html&#34;&gt;http://blog.jgc.org/2013/04/how-i-coded-in-1985.html&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;&lt;blockquote&gt;[&amp;#8230;] My job was to write the software in 6502 assembly. Unfortunately, there wasn&amp;#8217;t an assembler and the KIM-1 just had a hex keypad and small display. So, it meant writing the code by hand, hand assembling and typing it in. The code looked like this [&amp;#8230;]&lt;/blockquote&gt;&lt;/p&gt;</description>
+			<pubDate>Mon, 29 Apr 2013 21:41:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Can You Hear Me Now? Cellphone Satellites Phone Home : NPR</title>
@@ -302,17 +313,6 @@ Just check out part of the answer:
 
 &lt;p&gt;[&amp;#8230;] Current estimates show that the episode has already been downloaded over a million times. Last year, the popular fantasy HBO series was the most pirated TV show of 2012, with 4.28 million downloads for a single episode. Despite these staggering numbers, director David Petrarca is unconcerned. He said that pirated consumption only fuels the “cultural buzz” surrounding Game of Thrones and makes the show even more popular and pervasive. [&amp;#8230;]&lt;/p&gt;</description>
 			<pubDate>Tue, 02 Apr 2013 09:55:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>First prayer held in Greek mosque after 90 years</title>
-			<link>http://picks.vrypan.net/2013/4/2/46926167891/</link>
-			<guid>http://picks.vrypan.net/2013/4/2/46926167891/</guid>
-			<description>
-&lt;a href=&#34;http://www.todayszaman.com/news-311439-first-prayer-held-in-greek-mosque-after-90-years.html&#34;&gt;http://www.todayszaman.com/news-311439-first-prayer-held-in-greek-mosque-after-90-years.html&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;For the first time in 90 years, Greek Muslims prayed in a 111-year-old mosque in the city of Thessaloniki on Saturday.&lt;/p&gt;</description>
-			<pubDate>Tue, 02 Apr 2013 09:45:00 +0200</pubDate>
 		</item>
 		
 	</channel>
