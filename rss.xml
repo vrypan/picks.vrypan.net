@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Tue, 30 Apr 2013 10:06:05 +0200</pubDate>
-		<lastBuildDate>Tue, 30 Apr 2013 10:06:05 +0200</lastBuildDate>
+		<pubDate>Thu, 02 May 2013 07:44:58 +0200</pubDate>
+		<lastBuildDate>Thu, 02 May 2013 07:44:58 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,21 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title></title>
+			<link>http://picks.vrypan.net/2013/5/2/49418366707/</link>
+			<guid>http://picks.vrypan.net/2013/5/2/49418366707/</guid>
+			<description>
+&lt;p&gt;
+
+&lt;img src=&#34;http://picks.vrypan.net/2013/5/2/49418366707/0_400x533.jpg&#34; width=&#34;400&#34; height=&#34;533&#34; /&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;(via &lt;a href=&#34;http://blog.makezine.com/2013/05/01/mac-mailbox-2/&#34;&gt;MAKE | Mac Mail(Box)&lt;/a&gt;)&lt;/p&gt;</description>
+			<pubDate>Thu, 02 May 2013 04:44:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>How I coded in 1985 | John Graham-Cumming</title>
@@ -302,17 +317,6 @@ Just check out part of the answer:
 
 &lt;p&gt;CNET looks at newly surfaced contracts, design specs, and page after page of schematics and code, revealing how Apple created its first disk OS, a chapter of Silicon Valley history critical to its later success.&lt;/p&gt;</description>
 			<pubDate>Wed, 03 Apr 2013 12:39:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>‘Game of Thrones’ premiere shatters torrenting records, pirates take over the Seven Kingdoms | VentureBeat</title>
-			<link>http://picks.vrypan.net/2013/4/2/46926477673/</link>
-			<guid>http://picks.vrypan.net/2013/4/2/46926477673/</guid>
-			<description>
-&lt;a href=&#34;http://venturebeat.com/2013/04/01/game-of-thrones-premier-shatters-torrenting-records-pirates-take-over-the-seven-kingdoms/&#34;&gt;http://venturebeat.com/2013/04/01/game-of-thrones-premier-shatters-torrenting-records-pirates-take-over-the-seven-kingdoms/&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;[&amp;#8230;] Current estimates show that the episode has already been downloaded over a million times. Last year, the popular fantasy HBO series was the most pirated TV show of 2012, with 4.28 million downloads for a single episode. Despite these staggering numbers, director David Petrarca is unconcerned. He said that pirated consumption only fuels the “cultural buzz” surrounding Game of Thrones and makes the show even more popular and pervasive. [&amp;#8230;]&lt;/p&gt;</description>
-			<pubDate>Tue, 02 Apr 2013 09:55:00 +0200</pubDate>
 		</item>
 		
 	</channel>
