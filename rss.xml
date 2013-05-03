@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Thu, 02 May 2013 07:44:58 +0200</pubDate>
-		<lastBuildDate>Thu, 02 May 2013 07:44:58 +0200</lastBuildDate>
+		<pubDate>Sat, 04 May 2013 00:34:15 +0200</pubDate>
+		<lastBuildDate>Sat, 04 May 2013 00:34:15 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,32 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>NASA - NASA and Amateur Radio Operators Piece Together the PhoneSat Picture</title>
+			<link>http://picks.vrypan.net/2013/5/3/49531832907/</link>
+			<guid>http://picks.vrypan.net/2013/5/3/49531832907/</guid>
+			<description>
+&lt;a href=&#34;http://www.nasa.gov/topics/technology/features/PhoneSat_PHOTO_Feature.html&#34;&gt;http://www.nasa.gov/topics/technology/features/PhoneSat_PHOTO_Feature.html&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;[&amp;#8230;] Although the ultimate goal of the PhoneSat mission was to determine whether a consumer-grade smartphone can be used as the main flight avionics for a satellite in space, the three miniature satellites used their smartphone cameras to take pictures of Earth and transmitted these &amp;#8220;image-data packets&amp;#8221; to multiple ground stations. Every packet held a small piece of &amp;#8220;the big picture.&amp;#8221; As the data became available, the PhoneSat Team and multiple amateur ham radio operators, who call themselves &amp;#8220;hams,&amp;#8221; pieced together a high-resolution photograph from the tiny data packets. [&amp;#8230;]&lt;/p&gt;</description>
+			<pubDate>Fri, 03 May 2013 20:03:00 +0200</pubDate>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>http://picks.vrypan.net/2013/5/3/49531100965/</link>
+			<guid>http://picks.vrypan.net/2013/5/3/49531100965/</guid>
+			<description>
+&lt;p&gt;
+
+&lt;img src=&#34;http://picks.vrypan.net/2013/5/3/49531100965/0_400x274.jpg&#34; width=&#34;400&#34; height=&#34;274&#34; /&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;(via &lt;a href=&#34;http://www.johnmirandaphoto.com/next.htm&#34;&gt;NeXT Computer&lt;/a&gt;)&lt;/p&gt;</description>
+			<pubDate>Fri, 03 May 2013 19:53:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title></title>
@@ -295,28 +321,6 @@ Just check out part of the answer:
 
 &lt;p&gt;A new underwater drone concept could seek and destroy one of the ocean’s most insidious enemies, while earning a profit for plastics recyclers. This marine drone can siphon plastic garbage, swallowing bits of trash in a gaping maw rivaling that of a whale shark.&lt;/p&gt;</description>
 			<pubDate>Wed, 03 Apr 2013 17:58:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Break Out a Hammer: You&#39;ll Never Believe the Data &#39;Wiped&#39; Smartphones Store | Gadget Lab | Wired.com</title>
-			<link>http://picks.vrypan.net/2013/4/3/47024907823/</link>
-			<guid>http://picks.vrypan.net/2013/4/3/47024907823/</guid>
-			<description>
-&lt;a href=&#34;http://www.wired.com/gadgetlab/2013/04/smartphone-data-trail/&#34;&gt;http://www.wired.com/gadgetlab/2013/04/smartphone-data-trail/&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;Simply restoring a phone to its factory settings won’t completely clear it of data. Even if you use the built-in tools to wipe it, when you go to sell your phone on Craigslist you may be selling all sorts of things along with it that are far more valuable — your name, birth date, Social Security number and home address, for example. You may inadvertently sell your old photos, nudes and all. The bottom line is, the stuff you thought you had gotten rid of is still there, if someone knows how to look.&lt;/p&gt;</description>
-			<pubDate>Wed, 03 Apr 2013 14:59:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>The untold story behind Apple&#39;s $13,000 operating system</title>
-			<link>http://picks.vrypan.net/2013/4/3/47018534027/</link>
-			<guid>http://picks.vrypan.net/2013/4/3/47018534027/</guid>
-			<description>
-&lt;a href=&#34;http://news.cnet.com/8301-13579_3-57577597-37/the-untold-story-behind-apples-$13000-operating-system/?part=rss&amp;amp;subj=news&amp;amp;tag=title#.UVwUG06mmdA.hackernews&#34;&gt;http://news.cnet.com/8301-13579_3-57577597-37/the-untold-story-behind-apples-$13000-operating-system/?part=rss&amp;amp;subj=news&amp;amp;tag=title#.UVwUG06mmdA.hackernews&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;CNET looks at newly surfaced contracts, design specs, and page after page of schematics and code, revealing how Apple created its first disk OS, a chapter of Silicon Valley history critical to its later success.&lt;/p&gt;</description>
-			<pubDate>Wed, 03 Apr 2013 12:39:00 +0200</pubDate>
 		</item>
 		
 	</channel>
