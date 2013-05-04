@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Sat, 04 May 2013 00:34:15 +0200</pubDate>
-		<lastBuildDate>Sat, 04 May 2013 00:34:15 +0200</lastBuildDate>
+		<pubDate>Sat, 04 May 2013 10:37:55 +0200</pubDate>
+		<lastBuildDate>Sat, 04 May 2013 10:37:55 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,19 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>The Rise of the Hacker Space - NYTimes.com</title>
+			<link>http://picks.vrypan.net/2013/5/3/49541902604/</link>
+			<guid>http://picks.vrypan.net/2013/5/3/49541902604/</guid>
+			<description>
+&lt;a href=&#34;http://www.nytimes.com/2013/05/02/garden/the-rise-of-the-hacker-space.html?pagewanted=all&amp;amp;_r=2&amp;amp;&#34;&gt;http://www.nytimes.com/2013/05/02/garden/the-rise-of-the-hacker-space.html?pagewanted=all&amp;amp;_r=2&amp;amp;&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;[&amp;#8230;] Hacker spaces like MakerBar — where people gather to build or take things apart, from rockets to circuit boards to LED displays — are hives of innovation, real-world communities made possible by the emergence of virtual communities. &lt;/p&gt;
+
+&lt;p&gt;Businesses like Pinterest and MakerBot have grown out of hacker spaces, which have become networking venues for engineers and inventors. But at their most basic level, the 200 or so hacker spaces across the country function as a modern stand-in for the home workshop, especially in urban areas. [&amp;#8230;]&lt;/p&gt;</description>
+			<pubDate>Fri, 03 May 2013 22:20:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>NASA - NASA and Amateur Radio Operators Piece Together the PhoneSat Picture</title>
@@ -310,17 +323,6 @@ Just check out part of the answer:
 
 &lt;p&gt;The Internet Archive jumped into bitcoin in 2011 after many people asked to donate bitcoins– a non-techy set up our wallet (good sign), and we got about $2,000 worth of donations that first year. In 2012 we got about $6,000 worth– interesting. [&amp;#8230;]&lt;/p&gt;</description>
 			<pubDate>Wed, 03 Apr 2013 18:31:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Plastic-Eating Underwater Drone Could Swallow the Great Pacific Garbage Patch | Popular Science</title>
-			<link>http://picks.vrypan.net/2013/4/3/47035130820/</link>
-			<guid>http://picks.vrypan.net/2013/4/3/47035130820/</guid>
-			<description>
-&lt;a href=&#34;http://www.popsci.com/technology/article/2012-07/plastic-eating-underwater-drone-could-swallow-great-pacific-garbage-patch&#34;&gt;http://www.popsci.com/technology/article/2012-07/plastic-eating-underwater-drone-could-swallow-great-pacific-garbage-patch&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;A new underwater drone concept could seek and destroy one of the ocean’s most insidious enemies, while earning a profit for plastics recyclers. This marine drone can siphon plastic garbage, swallowing bits of trash in a gaping maw rivaling that of a whale shark.&lt;/p&gt;</description>
-			<pubDate>Wed, 03 Apr 2013 17:58:00 +0200</pubDate>
 		</item>
 		
 	</channel>
