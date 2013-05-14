@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Sat, 04 May 2013 10:37:55 +0200</pubDate>
-		<lastBuildDate>Sat, 04 May 2013 10:37:55 +0200</lastBuildDate>
+		<pubDate>Wed, 15 May 2013 02:17:39 +0200</pubDate>
+		<lastBuildDate>Wed, 15 May 2013 02:17:39 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,38 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Space Oddity (by Chris Hadfield) A revised version of David Bowie’s Space Oddity, recorded by Commander Chris Hadfield on board the ...</title>
+			<link>http://picks.vrypan.net/2013/5/14/50453167056/</link>
+			<guid>http://picks.vrypan.net/2013/5/14/50453167056/</guid>
+			<description>
+
+	&lt;iframe width=&#34;500&#34; height=&#34;281&#34; src=&#34;http://www.youtube.com/embed/KaOC9danxNo?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Space Oddity (by &lt;a href=&#34;http://www.youtube.com/watch?v=KaOC9danxNo&#34;&gt;Chris Hadfield&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;A revised version of David Bowie&amp;#8217;s Space Oddity, recorded by Commander Chris Hadfield on board the International Space Station. (wow. WOW!)&lt;/p&gt;
+
+ </description>
+			<pubDate>Tue, 14 May 2013 23:16:00 +0200</pubDate>
+		</item>
+		
+		<item>
+			<title>THIS IS WATER - By David Foster Wallace (by The Glossary)</title>
+			<link>http://picks.vrypan.net/2013/5/9/50009404081/</link>
+			<guid>http://picks.vrypan.net/2013/5/9/50009404081/</guid>
+			<description>
+
+	&lt;iframe src=&#34;http://player.vimeo.com/video/65576562&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;THIS IS WATER - By David Foster Wallace (by &lt;a href=&#34;http://vimeo.com/65576562&#34;&gt;The Glossary&lt;/a&gt;)&lt;/p&gt;
+
+ </description>
+			<pubDate>Thu, 09 May 2013 12:51:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>The Rise of the Hacker Space - NYTimes.com</title>
@@ -301,28 +333,6 @@ Just check out part of the answer:
 
 &lt;p&gt;Software pirates promote data survival through ubiquity and media independence. Like an ant that works as part of a larger system it doesn’t understand, the selfish action of each digital pirate, when taken in aggregate, has created a vast web of redundant data that ensures many digital works will live on.&lt;/p&gt;</description>
 			<pubDate>Wed, 03 Apr 2013 18:42:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>SEC Approves Using Facebook, Twitter for Company Disclosures - Bloomberg</title>
-			<link>http://picks.vrypan.net/2013/4/3/47037379130/</link>
-			<guid>http://picks.vrypan.net/2013/4/3/47037379130/</guid>
-			<description>
-&lt;a href=&#34;http://www.bloomberg.com/news/2013-04-02/sec-approves-social-media-use-for-companies-material-disclosure.html&#34;&gt;http://www.bloomberg.com/news/2013-04-02/sec-approves-social-media-use-for-companies-material-disclosure.html&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;U.S. companies will now be able to post their earnings on Twitter or update their status on Facebook as long as investors have been told in advance where to look.&lt;/p&gt;</description>
-			<pubDate>Wed, 03 Apr 2013 18:34:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>How the Internet Archive is having Great Time with Bitcoin | Internet Archive Blogs</title>
-			<link>http://picks.vrypan.net/2013/4/3/47037156400/</link>
-			<guid>http://picks.vrypan.net/2013/4/3/47037156400/</guid>
-			<description>
-&lt;a href=&#34;http://blog.archive.org/2013/04/03/how-the-internet-archive-is-having-great-time-with-bitcoin/&#34;&gt;http://blog.archive.org/2013/04/03/how-the-internet-archive-is-having-great-time-with-bitcoin/&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;The Internet Archive jumped into bitcoin in 2011 after many people asked to donate bitcoins– a non-techy set up our wallet (good sign), and we got about $2,000 worth of donations that first year. In 2012 we got about $6,000 worth– interesting. [&amp;#8230;]&lt;/p&gt;</description>
-			<pubDate>Wed, 03 Apr 2013 18:31:00 +0200</pubDate>
 		</item>
 		
 	</channel>
