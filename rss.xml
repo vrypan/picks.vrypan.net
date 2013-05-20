@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Mon, 20 May 2013 01:10:16 +0200</pubDate>
-		<lastBuildDate>Mon, 20 May 2013 01:10:16 +0200</lastBuildDate>
+		<pubDate>Mon, 20 May 2013 17:33:56 +0200</pubDate>
+		<lastBuildDate>Mon, 20 May 2013 17:33:56 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Dr. Bunsen / Naming &amp; Searching Files Part 3</title>
+			<link>http://picks.vrypan.net/2013/5/20/50908359065/</link>
+			<guid>http://picks.vrypan.net/2013/5/20/50908359065/</guid>
+			<description>
+&lt;a href=&#34;http://www.drbunsen.org/naming-and-searching-files-part-3/&#34;&gt;http://www.drbunsen.org/naming-and-searching-files-part-3/&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;[&amp;#8230;] Of all the things I’ve written on this site, I’ve received the most email about Naming and Searching Files Part 1. The most common question I get relates to how my naming methods integrate with my photography workflow. In my original post, I skirted discussing photography because I’ve found this type of data is hard to properly manage. This post extends my previously discussed naming and searching methods in the context of photos and described how these methods integrate with my photography workflow. [&amp;#8230;]&lt;/p&gt;</description>
+			<pubDate>Mon, 20 May 2013 14:33:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Funds are piling into Greece—and believe it or not, that’s not a bad move - Quartz</title>
@@ -320,21 +331,6 @@ Just check out part of the answer:
 
 &lt;p&gt;(via &lt;a href=&#34;http://www.cracktwo.com/2011/04/25-abandoned-soviet-monuments-that-look.html&#34;&gt;25 Abandoned Yugoslavia Monuments that look like they&amp;#8217;re from the Future | Crack Two&lt;/a&gt;)&lt;/p&gt;</description>
 			<pubDate>Sun, 07 Apr 2013 21:19:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Skylar Tibbits: The emergence of “4D printing” (by TEDtalksDirector)</title>
-			<link>http://picks.vrypan.net/2013/4/7/47318899116/</link>
-			<guid>http://picks.vrypan.net/2013/4/7/47318899116/</guid>
-			<description>
-
-	&lt;iframe width=&#34;500&#34; height=&#34;281&#34; src=&#34;http://www.youtube.com/embed/0gMCZFHv9v8?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;Skylar Tibbits: The emergence of &amp;#8220;4D printing&amp;#8221; (by &lt;a href=&#34;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=0gMCZFHv9v8&#34;&gt;TEDtalksDirector&lt;/a&gt;)&lt;/p&gt;
-
- </description>
-			<pubDate>Sun, 07 Apr 2013 00:07:00 +0200</pubDate>
 		</item>
 		
 	</channel>
