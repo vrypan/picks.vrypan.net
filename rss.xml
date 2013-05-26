@@ -6,8 +6,8 @@
 		<description>interesting stuff I find on the net -my shared items.</description>
 		<language>en-us</language>
 		<copyright>Creative Commons Attribution 3.0 License (CC-BY 3.0)</copyright>
-		<pubDate>Tue, 21 May 2013 01:25:51 +0200</pubDate>
-		<lastBuildDate>Tue, 21 May 2013 01:25:51 +0200</lastBuildDate>
+		<pubDate>Sun, 26 May 2013 03:25:24 +0200</pubDate>
+		<lastBuildDate>Sun, 26 May 2013 03:25:24 +0200</lastBuildDate>
 		<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
 		<generator>bucket3 v2.0</generator>
 		<ttl>15</ttl>
@@ -17,6 +17,17 @@
 		<link rel="self" href="http://picks.vrypan.net/rss.xml" xmlns="http://www.w3.org/2005/Atom" />
 		<!-- End Of PubSubHubbub Discovery -->
 
+		
+		<item>
+			<title>Apple-1 Computers Jump in Value at Auctions - NYTimes.com</title>
+			<link>http://picks.vrypan.net/2013/5/26/51342875956/</link>
+			<guid>http://picks.vrypan.net/2013/5/26/51342875956/</guid>
+			<description>
+&lt;a href=&#34;http://www.nytimes.com/2013/05/24/technology/apple-1-computers-jump-in-value-at-auctions.html?pagewanted=all&amp;amp;_r=0&#34;&gt;http://www.nytimes.com/2013/05/24/technology/apple-1-computers-jump-in-value-at-auctions.html?pagewanted=all&amp;amp;_r=0&lt;/a&gt; &amp;rarr;
+
+&lt;p&gt;[&amp;#8230;] Last November, an Apple-1, also commonly known as the Apple I, sold for $640,000 at an auction in Germany. That sale surpassed the previous record of $374,500 set only five months earlier at Sotheby’s in New York. [&amp;#8230;]&lt;/p&gt;</description>
+			<pubDate>Sun, 26 May 2013 00:25:00 +0200</pubDate>
+		</item>
 		
 		<item>
 			<title>Where Tumblr Came From - Anil Dash</title>
@@ -316,17 +327,6 @@ Just check out part of the answer:
 
 &lt;p&gt;Rob White interviews Yorgos Lanthimos, director of Dogtooth, about his most recent film Alps, out now on DVD.&lt;/p&gt;</description>
 			<pubDate>Mon, 08 Apr 2013 18:01:00 +0200</pubDate>
-		</item>
-		
-		<item>
-			<title>Thread: How podcasting got its name</title>
-			<link>http://picks.vrypan.net/2013/4/8/47450521346/</link>
-			<guid>http://picks.vrypan.net/2013/4/8/47450521346/</guid>
-			<description>
-&lt;a href=&#34;http://threads2.scripting.com/2013/april/howPodcastingGotItsName&#34;&gt;http://threads2.scripting.com/2013/april/howPodcastingGotItsName&lt;/a&gt; &amp;rarr;
-
-&lt;p&gt;A little piece of tech history.&lt;/p&gt;</description>
-			<pubDate>Mon, 08 Apr 2013 11:40:00 +0200</pubDate>
 		</item>
 		
 	</channel>
